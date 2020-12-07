@@ -1,2 +1,4 @@
 *.pdf
 _site
+
+.ipynb_checkpoints
